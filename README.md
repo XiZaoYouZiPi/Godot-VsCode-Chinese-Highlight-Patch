@@ -8,6 +8,10 @@
 C:\Users\UserName\\.vscode\extensions\geequlim.godot-tools-version number\syntaxes\GDScript.tmLanguage.json
 
 ## 效果演示
+最终JSON文件替换+主题插件演示<br>
+<img width="1177" height="727" alt="插件+JSON更改02" src="https://github.com/user-attachments/assets/a689aa0b-bd34-4350-bb9a-f3c077ccec1c" /><br>
+
+### 以下是各情况演示对比
 原始画面01<br>
 <img width="1179" height="727" alt="无01" src="https://github.com/user-attachments/assets/64478673-db5c-4815-8e92-2c9bc62e3a8d" />
 JSON文件替换后效果01<br>
