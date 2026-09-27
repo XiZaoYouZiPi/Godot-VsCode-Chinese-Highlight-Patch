@@ -5,7 +5,7 @@
 作为配置复制使用<br>
 在VsCode插件路径下，找到指定的“Godot Tools”插件，并在“syntaxes”文件夹下替换“GDScript.tmLanguage”JSON文件<br>
 默认路径：<br>
-C:\Users\UserName\\.vscode\extensions\geequlim.godot-tools-版本号\syntaxes\GDScript.tmLanguage.json
+C:\Users\UserName\\.vscode\extensions\geequlim.godot-tools-version number\syntaxes\GDScript.tmLanguage.json
 
 ## 效果演示
 原始画面01<br>
