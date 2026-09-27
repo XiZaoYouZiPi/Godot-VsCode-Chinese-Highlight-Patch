@@ -1,5 +1,5 @@
 # Godot-VsCode-Chinese-Highlight-Patch
-一个用于VsCOde插件“Godot Tools”的JSON配置表 ，在VsCode中编写GSD脚本，需通过一个"Godot tools"插件实现，此插件无法高亮中文变量名、函数名、类名等自定义中文名称，通过本仓库JSON配置表替换插件的JSON配置表，即可正常高亮中文字符。
+一个用于VsCode插件“Godot Tools”的JSON配置表 ，在VsCode中编写GSD脚本，需通过一个"Godot Tools"插件实现，此插件无法高亮中文变量名、函数名、类名等自定义中文名称，通过本仓库JSON配置表替换插件的JSON配置表，即可正常高亮中文字符。
 
 ## 使用方法
 作为配置复制使用<br>
